@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE log4j:configuration>
+	<Configuration status="WARN">
+		<Appenders>
+			<Console name="Console" target="SYSTEM_OUT">
+				<PatternLayout>
+					<Pattern>%message %throwable{short.message}%n</Pattern>
+				</PatternLayout>
+			</Console>
+			
+			<!-- This is the file logger that calls the level, thread, message, and error (if applicable) -->
+			<File name="FileLog" fileName="debug.log" append="false">
+				<PatternLayout>
+					<Pattern>
+						[%sequenceNumber %level{length=2}] %class.%method %thread: %message %throwable{3}%n
+					</Pattern>
+				</PatternLayout>					
+			</File>
+		</Appenders>
+	
+		<Loggers>
+		
+			<Logger name="LoggerSetup" additivity="false">
+				<AppenderRef ref="Console" level="WARN" />
+				<AppenderRef ref="FileLog" level="ALL" />
+			</Logger> 
+			
+			<Root level="ALL">
+				<AppenderRef ref="Console" level="INFO" />
+				
+			</Root>
+			
+		</Loggers>
+	</Configuration>
