@@ -3,5 +3,4 @@ at least 1,000 functioning lines of code used that comprise several different pa
 via use of a web crawler. Additionally at least 500 lines of comments. 
 
 
-Created by Matthew Chin, August to December 2019.
-Repository opened December 2020.
+Created by Matthew Chin. A project showing backend software development.
