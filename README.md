@@ -4,3 +4,5 @@ via use of a web crawler. Additionally at least 500 lines of comments.
 
 
 Created by Matthew Chin. A project showing backend software development.
+
+Additional features to be added and/or enhanced in the future.
