@@ -7,9 +7,13 @@ Created by Matthew Chin. A project showing backend software development.
 
 
 
-September 2023 Updates
 
-Additional features to be added and/or enhanced in the future.
-Massive refactoring and testing ahead. 
-If possible, frontend will also be added. 
+**September 2023 Updates**
+
+The search engine will see massive updates to the backend and will be reworked as such. If possible, frontend will also be added wherever deemed most appropriate. 
+
+
+
+Old files can be seen in the folder [2019-legacy-project](https://github.com/matthewjchin/web-search-crawler/tree/master/2019-legacy-product).
+
 
