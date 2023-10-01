@@ -21,10 +21,10 @@ public class Driver {
      */
     public static void main(String[] args) {
 
-//        ArgumentParser argParser = new ArgumentParser(args);
-//        InvertedIndex invertedIndex = new InvertedIndex();
-//        InvertedIndexBuilder builder = new InvertedIndexBuilder(invertedIndex);
-//        QueryBuilder queryBuilder = new QueryBuilder(invertedIndex);
+        ArgumentParser argParser = new ArgumentParser(args);
+        InvertedIndex invertedIndex = new InvertedIndex();
+        InvertedIndexBuilder builder = new InvertedIndexBuilder(invertedIndex);
+        QueryBuilder queryBuilder = new QueryBuilder(invertedIndex);
 //        MultithreadIndex threadIndex = new MultithreadIndex();
 //
 //        if (argParser.hasFlag("-path")) {

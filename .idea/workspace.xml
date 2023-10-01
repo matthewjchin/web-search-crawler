@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5512ed40-9368-4426-a717-8235ef75a48a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/new-product/src/ArgumentParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-product/src/InvertedIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new-product/src/InvertedIndexBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-product/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/new-product/src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-product/src/InvertedIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/new-product/src/InvertedIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-product/src/InvertedIndexBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/new-product/src/InvertedIndexBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

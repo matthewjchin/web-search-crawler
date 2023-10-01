@@ -16,4 +16,5 @@ The search engine will see massive updates to the backend and will be reworked a
 
 Old files can be seen in the folder [2019-legacy-project](https://github.com/matthewjchin/web-search-crawler/tree/master/2019-legacy-product).
 
+New, reworked files can be found in the [new-product](https://github.com/matthewjchin/web-search-crawler/tree/master/new-product) directory. 
 
