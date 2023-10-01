@@ -6,10 +6,6 @@ via use of a web crawler. Additionally at least 500 lines of comments.
 Created by Matthew Chin. A project showing backend software development.
 
 
-
-
-**September 2023 Updates**
-
 The search engine will see massive updates to the backend and will be reworked as such. If possible, frontend will also be added wherever deemed most appropriate. 
 
 
