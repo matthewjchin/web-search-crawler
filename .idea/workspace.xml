@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5512ed40-9368-4426-a717-8235ef75a48a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/HelloThere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +41,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "/Users/mattjchin/Desktop/personal_projects/Search_Engine/web-search-crawler",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Driver">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="new-product" />
@@ -72,6 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="VM_PARAMETERS" value="-path &quot;../../project-tests/Project Tests/text/simple/hello.txt&quot; -index hello.json" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Repositories/project-tests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.HelloThere" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Driver" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Driver" />
