@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/new-product/new-product.iml" filepath="$PROJECT_DIR$/new-product/new-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-search-crawler.iml" filepath="$PROJECT_DIR$/.idea/web-search-crawler.iml" />
     </modules>
